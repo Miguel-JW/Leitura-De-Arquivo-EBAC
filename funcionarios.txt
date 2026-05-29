@@ -1,0 +1,5 @@
+1;Carlos Silva;Analista;5500.00
+2;Ana Souza;Coordenador;8200.00
+3;Beatriz Lima;Assistente;3800.00
+4;João Pedro;Analista;5200.00
+5;Mariana Costa;Coordenador;9100.00
